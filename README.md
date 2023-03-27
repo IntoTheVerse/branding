@@ -1,8 +1,11 @@
 # Brand Assets
 
-### Current Logo ⬇️
+# Current Logo ⬇️
 ![Asset 7](https://user-images.githubusercontent.com/43913734/225618344-f92ba08d-d0b8-4bcf-b100-ace5b1212558.png)
 ![Asset 6](https://user-images.githubusercontent.com/43913734/225618370-6b6fcfa9-3949-4342-8b8a-3312f099fcc9.png)
+
+![logo_4x](https://user-images.githubusercontent.com/43913734/227846545-9a57d92f-9eb4-4f33-9391-b2f4ad969eb0.png)
+
 
 ### Background
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/43913734/225619047-ea4ad1ab-7f1b-4cf5-9de1-71ac2242395a.png" />
@@ -18,15 +21,19 @@
 ### Fonts
 
 [Germania One, "Cursive"](https://fonts.google.com/specimen/Germania+One)
-<p>
-![Experience pixel metaverse!](https://user-images.githubusercontent.com/43913734/227845683-f32b435d-b581-4853-8911-46821626fc2f.png)
-</p>
+<br />
+<img src="https://user-images.githubusercontent.com/43913734/227845683-f32b435d-b581-4853-8911-46821626fc2f.png" />
+<br />
+<br />
 
-<p>
+
+
 [Balthazar](https://fonts.google.com/specimen/Balthazar)
-![Into The Verse is a pixel replication of the  real world that we live in  People live in a crypto-native city in various aspects of life](https://user-images.githubusercontent.com/43913734/227845799-a4601cf7-f1e5-4870-94d4-ed9e50845286.png)
-</p>
+<br />
+<img src="https://user-images.githubusercontent.com/43913734/227845799-a4601cf7-f1e5-4870-94d4-ed9e50845286.png" />
 
-### New Logo (Pending: Rebranding: Coming soon!!)
+
+
+# New Logo (Pending: Rebranding: Coming soon!!)
 
 
