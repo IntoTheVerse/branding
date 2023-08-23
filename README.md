@@ -9,6 +9,9 @@
 ![Group](https://github.com/IntoTheVerse/branding/assets/43913734/27a39996-2dc6-40e2-a2b7-a28e428083b6)
 ![1](https://github.com/IntoTheVerse/branding/assets/43913734/78a156e5-76e7-4dd2-8a0a-bce6313bd683)
 
+### Branding
+![Group 2](https://github.com/IntoTheVerse/branding/assets/43913734/5a0cbf5f-302b-4ef4-a547-9e3562cfed34)
+
 
 
 # Current Logo ⬇️
