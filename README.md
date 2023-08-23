@@ -1,5 +1,16 @@
 # Brand Assets
 
+# New Logo (Pending: Website Rebranding: Coming soon!!)
+
+### IntoTheVerse 
+![Group 6](https://github.com/IntoTheVerse/branding/assets/43913734/0cd104dd-df5e-47df-a4eb-bdc3002c0fd1)
+
+### Intrant Inferis
+![Group](https://github.com/IntoTheVerse/branding/assets/43913734/27a39996-2dc6-40e2-a2b7-a28e428083b6)
+![1](https://github.com/IntoTheVerse/branding/assets/43913734/78a156e5-76e7-4dd2-8a0a-bce6313bd683)
+
+
+
 # Current Logo ⬇️
 ![Asset 7](https://user-images.githubusercontent.com/43913734/225618344-f92ba08d-d0b8-4bcf-b100-ace5b1212558.png)
 ![Asset 6](https://user-images.githubusercontent.com/43913734/225618370-6b6fcfa9-3949-4342-8b8a-3312f099fcc9.png)
@@ -34,6 +45,6 @@
 
 
 
-# New Logo (Pending: Rebranding: Coming soon!!)
+
 
 
