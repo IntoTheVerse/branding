@@ -1,6 +1,6 @@
 # Brand Assets
 
-# New Logo (Pending: Website Rebranding: Coming soon!!)
+# New Logo 
 
 ## IntoTheVerse 
 ![Group 6](https://github.com/IntoTheVerse/branding/assets/43913734/0cd104dd-df5e-47df-a4eb-bdc3002c0fd1)
