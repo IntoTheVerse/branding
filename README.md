@@ -41,7 +41,7 @@
 
 
 ## Cryptara Conquest
-**A competitive retro dungeon survival RPG built on Eclipse SVM**
+**A competitive retro dungeon survival RPG built on SVM and MoveVM**
 
 #### Socials
 - [Cryptara Conquest Twitter](https://x.com/CryptaraConq)
