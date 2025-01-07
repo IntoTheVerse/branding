@@ -47,9 +47,6 @@
 - [Cryptara Conquest Twitter](https://x.com/CryptaraConq)
 ![Group 1](https://github.com/user-attachments/assets/df12957c-03d6-420c-b519-d5ab1301e432)
 
-![Cryptara_Conquest_Logo@4x](https://github.com/IntoTheVerse/branding/assets/43913734/fb97b1eb-dbae-45ca-9741-cdd317607ac6)
-![cryptaraconquest](https://github.com/IntoTheVerse/branding/assets/43913734/4c1a8497-4f2a-4c2d-9f5e-e90fbae77b90)
-
 
 ## Hoof Hustlers
 **First of its kind PvP multiplayer on-chain racing game world of Centauri on Nibiru Chain**
