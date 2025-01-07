@@ -48,14 +48,6 @@
 ![Group 1](https://github.com/user-attachments/assets/df12957c-03d6-420c-b519-d5ab1301e432)
 
 
-## Hoof Hustlers
-**First of its kind PvP multiplayer on-chain racing game world of Centauri on Nibiru Chain**
-
-#### Socials
-- [Hoof Hustlers Twitter](https://x.com/HoofHustlers)
-![hh](https://github.com/IntoTheVerse/branding/assets/43913734/3042b375-f803-4937-85c2-ebd756d4736b)
-
-
 
 
 
