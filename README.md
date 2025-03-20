@@ -2,7 +2,7 @@
 
 ## IntoTheVerse 
 
-**We're building on-chain games**
+**We're building fun on-chain mobile games**
 ### Socials
 - [IntoTheVerse Twitter](https://x.com/IntoTheVerse_) 
 
